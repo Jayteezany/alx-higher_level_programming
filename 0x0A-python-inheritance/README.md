@@ -1,2 +1,2 @@
-H Tables
+Inheritance
 My readme

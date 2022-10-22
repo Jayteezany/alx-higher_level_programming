@@ -1,2 +1,2 @@
-H Tables
+Inheritance Tests
 My readme
